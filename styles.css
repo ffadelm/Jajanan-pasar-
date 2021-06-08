@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+/* html, body {
+  background-color: #F3F2EF;
+} */
+
+#btn-back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+}
+
+.active {
+  /* color: #029D50 !important; */
+  color: #008c46 !important;
+}
+
+.bg-green {
+  background-color: #008c46;
+}
+
+.color-green {
+  color: #008c46;
+}
+
+.color-grey {
+  color: #767676;
+}
+
+.color-white {
+  color: #F8F9FA;
+}
+
+.color-white2 {
+  color: #F8F9FA;
+}
+
+.color-black {
+  color: #212529;
+}
+
+.body-light {
+  background-color: #F8F9FA;
+  color: #212529;
+}
+
+.body-dark {
+  background-color: #212529;
+  color: #F8F9FA;
+}
